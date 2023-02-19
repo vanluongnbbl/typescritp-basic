@@ -1,0 +1,1 @@
+// number | string => union type -> gán nhiều kiểu cho 1 biến
